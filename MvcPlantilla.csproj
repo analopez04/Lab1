@@ -76,7 +76,11 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Views\Home\Agregarvideo.aspx" />
+    <Content Include="Views\Home\Eliminarvideo.aspx" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Home\Modificarvideo.aspx" />
+    <Content Include="Views\Home\Vervideos.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

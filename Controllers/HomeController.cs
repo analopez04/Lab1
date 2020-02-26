@@ -16,5 +16,24 @@ namespace MvcPlantilla.Controllers
             return View();
         }
 
+        public ActionResult Vervideos()
+        {
+            return View();
+        }
+
+        public ActionResult Agregarvideo()
+        {
+            return View();
+        }
+
+        public ActionResult Eliminarvideo()
+        {
+            return View();
+        }
+
+        public ActionResult Modificarvideo()
+        {
+            return View();
+        }
     }
 }
