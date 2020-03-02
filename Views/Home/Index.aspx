@@ -9,12 +9,12 @@
 <body>
     <h1>OPCIONES</h1>
     <hr />  
-    <a href="Home/Vervideos">Ver videos</a>
+    <a href="/Home/Vervideos">Ver videos</a>
     <br />  
-    <a href="Home/Agregarvideo">Agregar video</a>
+    <a href="/Home/Agregarvideo">Agregar video</a>
     <br />  
-    <a href="Home/Eliminarvideo">Eliminar video</a>
+    <a href="/Home/Eliminarvideo">Eliminar video</a>
     <br />  
-    <a href="Home/Modificarvideo">Modificar video</a>
+    <a href="/Home/Modificarvideo">Modificar video</a>
 </body>
 </html>

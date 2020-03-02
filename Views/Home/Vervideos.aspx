@@ -7,24 +7,15 @@
     <title>Ver videos</title>
 </head>
 <body>
-    <a href="Home/Index">Inicio</a>
-    <form action="/Vervideos" method="post">
+    <a href="/Home/Index">Inicio</a>
+    <form action="/Home/Vervideos" method="post">
     
     <fieldset>
     <legend > Datos del Video </legend>
-        <br />  
-    <label for="idVideo">idVideo</label>
-    <input type= "text" name= "idVideo" />
-        <br />  
-     <label for="titulo">titulo </label>
+        <br />      
+     <label for="titulo">Titulo </label>
     <input type= "text" name= "Titulo" />
-        <br />  
-     <label for="reproducciones">reproducciones</label>
-    <input type= "text" name= "reproducciones" />
-        <br />  
-     <label for="url">url</label>
-    <input type= "text" name= "url" />
-        <br />  
+       
     <input  type="submit" value=" Mostrar video"/>
 
     </fieldset>

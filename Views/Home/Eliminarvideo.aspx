@@ -7,6 +7,18 @@
     <title>Eliminarvideo</title>
 </head>
 <body>
-    <a href="Home/Index">Inicio</a>
+    <a href="/Home/Index">Inicio</a>
+     <form action="/Home/Eliminarvideo" method="post">
+    
+    <fieldset>
+    <legend > Datos del Video </legend>
+        <br />  
+    <label for="titulo">Titulo</label>
+    <input type= "text" name= "idVideo" />
+        <br />   
+    <input  type="submit" value=" Eliminar"/>
+
+    </fieldset>
+    </form>
 </body>
 </html>

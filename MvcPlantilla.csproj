@@ -79,6 +79,7 @@
     <Content Include="Views\Home\Agregarvideo.aspx" />
     <Content Include="Views\Home\Eliminarvideo.aspx" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Home\Mensaje.aspx" />
     <Content Include="Views\Home\Modificarvideo.aspx" />
     <Content Include="Views\Home\Vervideos.aspx" />
     <Content Include="Web.config" />
